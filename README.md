@@ -2,7 +2,7 @@ Hi there, I'm Haze
 
 About Me
 
--📍 Cebu City, Philippines
+- 📍 Cebu City, Philippines
 - 🏢 Senior UI/UX Designer at N-Compass TV
 - 🎨 Creating web app and mobile 
 
